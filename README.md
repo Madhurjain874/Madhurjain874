@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhur 
 - 👀 I’m interested in Native iOS and Android Development
-- 🌱 I’m currently learning Swift UI, JetPack Compose , Kotlin , Combine TDD
+- 🌱 I’m currently learning Swift UI, JetPack Compose , Kotlin , Combine ,  TDD
 - 📫 How to reach me - Email Id Madhur.jain@rooter.io
 
 <!---
